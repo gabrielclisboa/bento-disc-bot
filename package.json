@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "prettier --write \"**/*.js\"",
-    "npm start":"node index.js"
+    "gitstart":"node index.js"
   },
   "keywords": [
     "discord",
